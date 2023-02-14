@@ -1,17 +1,19 @@
-# Segmentos de clientes
+# Business Model Canvas
 
-# Problemas
+## Segmentos de clientes
 
-# Proposta única de valor
+## Problemas
 
-# Solução
+## Proposta única de valor
 
-# Canais
+## Solução
 
-# Estrutura de custos
+## Canais
 
-# Fluxo de receitas
+## Estrutura de custos
 
-# Métricas-chave
+## Fluxo de receitas
 
-# Vantagem competitiva
+## Métricas-chave
+
+## Vantagem competitiva
