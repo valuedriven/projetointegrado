@@ -1,4 +1,4 @@
-# Business Model Canvas
+# Lean Canvas
 
 ## Segmentos de clientes
 
